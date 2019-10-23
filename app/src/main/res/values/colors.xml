@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 透明色 -->
+    <color name="trans">#00000000</color>
+    <!-- 橙色 -->
+    <!-- 橙色 -->
+    <!-- 透明色(50) -->
+    <color name="transparent_50">#50000000</color>
+    <!-- 红色 -->
+    <!-- 绿色 -->
+    <!-- 蓝色 -->
+    <color name="blue">#4481D2</color>
+    <!-- 蓝色 -->
+    <!-- 纯白色 -->
+    <color name="white">#ffffffff</color>
+    <!-- 黄色 -->
+    <!-- 灰色 -->
+    <color name="gray">#ff868686</color>
+    <!-- 红色 -->
+    <color name="red">#ffff0000</color>
+    <!-- 红色 -->
+    <!-- 红色 -->
+    <!-- 黑色 -->
+    <color name="black">#ff000000</color>
+    <!-- 蓝色背景 -->
+    <!-- 灰色 不透明 -->
+    <color name="bg_gray_0">#ffe8e8e8</color>
+    <!-- 深灰色 -->
+    <!-- 橙色2 -->
+    <!-- 灰色字体 -->
+    <!-- 首页黑色 -->
+    <!-- 首页灰色 -->
+    <!-- 通用 -->
+    <color name="all_txt_32">#323232</color>
+    <color name="all_txt_b4">#B4B4B4</color>
+
+
+    <color name="all_bule">#184486</color>
+
+
+    <!-- 正文文本颜色 -->
+    <color name="font_content">#ff4d4d4d</color>
+    <!-- 灰色文本 -->
+    <!-- 灰色文本 -->
+    <color name="msg_font_gray">#999999</color>
+    <!-- 灰色分割线 -->
+    <color name="divider_gray">#EFF2F7</color>
+    <!-- 灰色 透明 -->
+    <color name="bg_gray_30">#30868686</color>
+    <!-- 浅灰色 -->
+    <!-- 浅蓝色 -->
+
+    <!-- ********************title Colors********************* -->
+    <!-- 浅灰色透明 -->
+    <color name="title_transparent_grey">#66222266</color>
+    <!-- 标题栏背景颜色 -->
+    <!-- <color name="title_bg_blue">#ff3f8ff2</color> -->
+    <!-- <color name="title_bg_blue">#ff1f8fe4</color> -->
+    <color name="title_bg_gray">#F2F2F2</color>
+    <color name="title_txt">#e04040</color>
+
+    <color name="bule_4d">#4d8fdb</color>
+    <color name="all_btn_bg">#4653A2</color>
+    <!-- 浅蓝色 -->
+    <!-- 纯黑色 -->
+    <!-- 纯黑色 -->
+    <!-- 纯黑色 -->
+    <!-- 黑色 透明_50% -->
+    <color name="bg_black_88">#882d2d2d</color>
+    <!-- 透明灰色背景 -->
+    <!-- 灰色黑色背景 -->
+    <!-- 淡灰色透明 -->
+    <!-- 淡灰色 -->
+    <!-- 灰的字体 -->
+    <!-- 我的合同sing -->
+
+    <!-- ****************************图表色块******************************************** -->
+    <!-- 曲线颜色 -->
+    <!-- 点的颜色 -->
+    <!-- 网格线的颜色 -->
+
+    <!-- ****************************liangxg******************************************** -->
+
+
+    <!-- 黑色色块 -->
+    <!-- 黑色 -->
+    <color name="black_transparent_87">#3d3b3b</color>
+    <color name="black_transparent_54">#514f4d</color>
+    <color name="black_transparent_26">#b4b4b4</color>
+    <!-- 灰色背景 -->
+    <!-- 橙色 -->
+    <color name="bg_color">#f5f5f5</color>
+
+    <!-- ****************************pl******************************************** -->
+    <color name="dimgray_f5">#f5f5f5</color>
+
+    <!-- 版本2.0新增颜色 -->
+    <!-- c9 -->
+    <color name="gray_c9">#c9c9c9</color>
+    <!-- 浅灰 -->
+    <!-- 顶部文字 -->
+    <!-- 深灰色文字 -->
+    <!-- 蓝色文字 -->
+    <!-- 灰色线 -->
+    <color name="gray_line">#e5e5e5</color>
+    <!-- 红色按钮颜色 -->
+
+
+    <!-- 通用红色 -->
+    <color name="red_normal">#f74c4c</color>
+    <!-- 通用浅灰 -->
+    <color name="gray_normal">#b4b4b4</color>
+    <!-- 版本2.0新增颜色-end -->
+    <!-- 版本2.0新增颜色-end -->
+
+
+    <!-- 二维码颜色 -->
+    <!--颜色归类-->
+    <!--白-->
+    <color name="while_1">#ffffff</color>
+    <!--黑-->
+    <color name="black_1">@color/black_transparent_87</color>
+    <!--红-->
+    <!--灰-->
+    <color name="line_background">#FFBF00</color>
+
+
+    <!--2.7-->
+    <!--文字-->
+    <color name="common_color_black_text_title">#333333</color><!--titlebar标题文字颜色-->
+    <!--一级标题文字颜色-->
+    <!--二级标题文字颜色-->
+    <!--二级标题文字颜色-->
+
+
+    <color name="common_color_black_text_stress">#242424</color><!--首页标准黑文字颜色-->
+    <!--首页标准黑文字颜色-->
+
+
+    <!--产品列表描述-->
+    <!--产品列表标题-->
+
+    <!--背景-->
+    <!--通用的灰色整体背景色-->
+    <!--高度较高的分割线背景色-->
+    <!--titlebar分隔线的背景色-->
+    <color name="common_color_grey_bg_gap_line">#edeef0</color><!--细分隔线的背景色-->
+    <!--细分隔线的背景色-->
+    <!--类似购买加油卡选择框的边线背景色-->
+
+    <color name="common_color_red_bg">#e04040</color><!--通用的红背景色-->
+    <!--通用的描述字体蓝色-->
+    <!--通用的红背景色-->
+    <!--20%透明度通用的红背景色-->
+
+    <!--油价走势的折线相关颜色-->
+    <!--油价走势的成本线折线相关颜色-->
+    <!--油价走势的折线相关颜色-->
+    <!--油价走势的折线相关颜色-->
+    <!--油价走势的折线相关颜色-->
+    <!--油价走势的折线相关颜色-->
+    <!--产品详情页顶部未选中颜色-->
+    <!--产品详情页顶部选中颜色-->
+
+    <color name="comment_gray">#aaaaaa</color>
+
+    <!-- 灰色 -->
+
+    <!-- 3.6.0首页爆款产品定义 -->
+    <!-- 50%透明度 -->
+
+    <!-- 80%透明度 -->
+
+    <!--首页轮播指示器未选中的色值-->
+
+    <!-- 置灰状态的背景和字体颜色 -->
+    <!--设置油卡列表页面保险文字背景色-->
+    <!--设置油卡列表页面保险文字背景色-->
+
+    <!--白色-->
+    <color name="common_main_white_color">#FFFFFF</color>
+    <!-- 通用辅助色 -->
+    <!--深橙色-->
+    <!--黑色-->
+
+
+    <!--自定义相机背景色-->
+    <!--   ***************  5.6.1 规范 通用主色调   ****************  -->
+    <!--深橙色  单色主色调-->
+    <color name="common_main_orange_color">#FBA029</color>
+    <!--红色    单色辅助色-->
+    <!--蓝色    单色辅助色-->
+    <color name="common_assist_blue_color">#4F7EE8</color>
+
+
+    <!--分割线和边框颜色-->
+    <!--背景色底色-->
+    <color name="common_assist_bg_color">#F9FAFC</color>
+
+
+    <!-- 文字颜色 -->
+    <color name="common_neutral_color_C">#CCCCCC</color>
+    <!-- 数字字体颜色 -->
+    <!-- 橙色 -->
+    <color name="common_orange_text">#FF9F19</color>
+    <!-- 红色背景 -->
+
+
+    <!-- 橙色背景渐变色 -->
+    <color name="common_gradient_orange_start">#FECE40</color>
+    <color name="common_gradient_orange_end">#FBA029</color>
+    <!-- 红色背景渐变色 -->
+    <!-- 蓝色背景渐变色 -->
+
+    <!-- 黄色按钮  渐变色 -->
+    <color name="common_gradient_orange_press_start">#E4B839</color>
+    <color name="common_gradient_orange_press_end">#E18F24</color>
+    <color name="common_gradient_orange_unclick_start">#FFE28D</color>
+    <color name="common_gradient_orange_unclick_end">#FDC67F</color>
+    <!-- 红色按钮  渐变色 -->
+
+    <!--   **************************************************  -->
+
+    <!-- *****************************************8 -->
+    <color name="edittext_hint_gray">#E2E2E2</color>
+    <color name="text_gray">#BFBFBFFF</color>
+
+</resources>

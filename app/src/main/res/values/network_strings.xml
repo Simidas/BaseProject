@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- **********************异常提示模块*********************** -->
+    <string name="exception_net_work_time_out_message">等待响应超时!</string>
+    <!--<integer name="exception_local_json_code">204</integer>-->
+    <string name="exception_local_json_message">本地转换数据异常！</string>
+    <string name="exception_get_phone_md5_message">数据解密异常!</string>
+
+</resources>

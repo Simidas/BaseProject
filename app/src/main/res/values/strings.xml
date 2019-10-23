@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ***********************公用数据模块*********************** -->
+
+    <string name="app_name">鸿蒙</string>
+    <string name="enter">确定</string>
+    <string name="cancel">取消</string>
+    <string name="day">天前</string>
+    <string name="hour">小时前</string>
+    <string name="minute">分钟前</string>
+    <string name="second">秒前</string>
+    <string name="prompt">温馨提示</string>
+    <string name="back">返回</string>
+    <!-- ***********************帮助中心*********************** -->
+    <!-- ***********************请求成功或失败的提示信息集合*********************** -->
+    <!-- 版本更新 -->
+
+    <!-- ***********************操作问题的提示信息集合*********************** -->
+
+    <!-- dialog -->
+    <!-- 消息中心 -->
+
+    <!-- Login -->
+    <!-- Register -->
+    <!-- 云储油 -->
+    <!-- 选择模式 -->
+
+    <!-- OilPrice油价走势 -->
+
+    <!-- 我的账户 -->
+    <!-- 我的云储油 -->
+
+    <!-- 商品详情界面 -->
+
+
+    <!--购买成功后，立即赠送%1$s升（价值%2$s元）-->
+    <!--购买成功后，立即赠送:%1$s元-->
+
+    <!-- 现金券相关 -->
+
+    <!-- 转出、充值相关 -->
+
+
+    <!-- 个人信息InfoActivity -->
+
+
+    <!-- 我的订单OrderListActivity 订单详情OrderDetail 物流跟踪OrderFollow -->
+
+    <!-- 我的银行卡BankCardList 修改BankCardEdit 选择银行BankSelet -->
+
+
+    <!-- 安全中心、实名认证、交易密码 -->
+    <string name="activity_loginPasEdit_hint2">6-20位字母和数字组合</string>
+    <string name="hint_plase_pwd">请输入密码</string>
+
+    <!-- 绑定实体卡BindEsse 确认绑定BindEsseOver -->
+
+    <!-- 转让操作AttornHand 回购操作BuyBackHand -->
+
+    <!-- 我的转让卡AttornList 转让卡详情AttornDetail -->
+
+    <!-- 转让区 -->
+
+    <!-- 领取操作 -->
+
+
+    <!-- 购物车界面 -->
+
+
+    <!-- 购物车商品详情 -->
+    <!-- 交易记录 -->
+
+
+    <!-- check update -->
+
+
+    <!-- 支付 -->
+
+
+    <!-- 京东支付 -->
+    <!-- 建行支付 -->
+
+    <!-- **********************警告提示模块*********************** -->
+
+    <!-- dialog select image -->
+    <string name="dialog_select_image_title">选择图片</string>
+
+    <!-- **********************Intent*********************** -->
+    <!-- ***********************提示文本模块*********************** -->
+    <!-- hint -->
+    <string name="hint_select_oper">请选择操作</string>
+    <string name="hint_exit_application">再次点击即将退出！</string>
+
+    <!-- *******************************上下拉刷新提示文本**************************** -->
+
+
+    <!-- 二位码字符串  -->
+
+    <!-- 小票充值  -->
+
+    <!-- 我的卡券  -->
+    <string name="beyond_balance">已超出帐号可加油余额。</string>
+
+    <!--扫码加油页面-->
+    <!--我的加油卡界面-->
+
+    <!--购买加油卡-->
+
+
+    <!--<string name="a_buy_fuel_card_cost_describeDownNow_format" formatted="false">"原价%s元  折扣价%s元  共省%s元"</string>-->
+
+
+    <!--我的-->
+    <!--产品详情-->
+
+    <!--车主认证-->
+
+    <!-- 车辆保险 -->
+
+
+    <!-- 新生快捷支付 -->
+
+    <!--字符串填充-->
+
+    <!--光汇云付-->
+
+    <!--加油赚钱-->
+
+    <!--通用命名-->
+
+    <!--toast-->
+    <!--产品页相关字符串-->
+
+
+    <!--支付页面-->
+
+    <!--确认购买-->
+
+    <!--键盘标识-->
+    <!--切换特殊字符-->
+    <!--切换数字-->
+
+    <!--h5页面-->
+
+    <!--领取计划-->
+
+    <string name="spkey_app_timmer">spkey_app_timmer</string>
+
+    <string name="phone_type">机型 = %1$s \n</string>
+    <string name="operating_time">操作时间 = %1$s \n</string>
+    <string name="system_verson">系统版本 = %1$s \n</string>
+    <string name="system_model">系统类型 = %1$s \n</string>
+    <string name="test_version">内测版本 = Beta_V %1$s \n</string>
+    <string name="official_version">正式版本  = V %1$s \n</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- **********************SP数据模块*********************** -->
+    <string name="spkey_value_language">language</string>
+    <string name="spkey_file_config">config</string>
+    <string name="spkey_file_userinfo">userinfo</string>
+    <string name="spkey_value_userno">usernum</string>
+    <string name="spkey_value_isautologin">isautologin</string>
+    <string name="spkey_value_islogin">islogin</string>
+    <string name="spkey_value_account">account</string>
+    <string name="spkey_value_portrait">protrait</string>
+
+    <string name="spkey_adimg_load">spkey_spkey_adimg_load</string>
+    <string name="spkey_app_version">spkey_app_version</string>
+
+
+</resources>
